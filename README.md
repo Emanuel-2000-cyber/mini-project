@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# mini-project
+Mini-project
 =======
-# miniproject
->>>>>>> 57996c2 (Initial commit)
+
